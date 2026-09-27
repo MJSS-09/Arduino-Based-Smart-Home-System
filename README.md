@@ -207,8 +207,8 @@ The Arduino Based Smart Home System successfully demonstrates the integration of
 
 ---
 
-## 👤 Author
+## 👨‍💻 Author
 
-**Mallampally Jayantha Siva Srinivas**
-B.Tech, Electronics & Communication Engineering
-GitHub: [MJSS-09](https://github.com/MJSS-09)
+**Mallampally Jayantha Siva Srinivas** | **B.Tech | Electronics and Communication Engineering (ECE)**
+ESSCI-Certified Embedded Fullstack & IoT Analyst , SRM University(AP)
+---
